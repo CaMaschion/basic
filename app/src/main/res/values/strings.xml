@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">basic</string>
+
+    <string name="tela2_texto1">Nome: %1$s /  Código: %2$d</string>
+    <string name="tela2_texto2">Nome: %1$s /  Idade: %2$d</string>
+
+</resources>
